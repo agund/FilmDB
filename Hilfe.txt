@@ -1,0 +1,5 @@
+https://o7planning.org/de/10749/verwenden-von-twitter-bootstrap-im-spring-boot
+https://stackoverflow.com/questions/31401669/thymeleaf-multiple-submit-button-in-one-form
+https://stackoverflow.com/questions/36744655/for-each-operator-in-thymeleaf
+https://o7planning.org/de/11897/anleitung-spring-boot-und-spring-data-jpa
+https://o7planning.org/de/11893/spring-boot-jpa-und-h2-datenbank-integrieren

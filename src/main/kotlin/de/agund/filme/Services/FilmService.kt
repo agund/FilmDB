@@ -18,7 +18,7 @@ class FilmService{
     fun AddFilm(name :String)
     {
         var f = Film()
-        f.PFilmName=name
+        f.filmName=name
         _filmRepository?.save(f)
     }
 
